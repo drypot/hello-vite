@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.5",
     "tailwindcss": "^2.1.4",
     "vite": "^2.3.7"
   }
